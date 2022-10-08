@@ -2765,7 +2765,7 @@ packages:
     resolution: {integrity: sha512-LaJ8yuh4v0zEmge/g3c7jjFlhoCPfQn6RCjXgm9A0Qiuochq4BcuOxVfWmdnCoLTlg2MV+hqhOek+W2OhG0Lwg==}
     dependencies:
       acorn: 8.8.0
-      pathe: 0.3.8
+      pathe: 0.3.9
       pkg-types: 0.3.5
       ufo: 0.8.5
     dev: true
@@ -3036,8 +3036,8 @@ packages:
     resolution: {integrity: sha512-sTitTPYnn23esFR3RlqYBWn4c45WGeLcsKzQiUpXJAyfcWkolvlYpV8FLo7JishK946oQwMFUCHXQ9AjGPKExw==}
     dev: true
 
-  /pathe/0.3.8:
-    resolution: {integrity: sha512-c71n61F1skhj/jzZe+fWE9XDoTYjWbUwIKVwFftZ5IOgiX44BVkTkD+/803YDgR50tqeO4eXWxLyVHBLWQAD1g==}
+  /pathe/0.3.9:
+    resolution: {integrity: sha512-6Y6s0vT112P3jD8dGfuS6r+lpa0qqNrLyHPOwvXMnyNTQaYiwgau2DP3aNDsR13xqtGj7rrPo+jFUATpU6/s+g==}
     dev: true
 
   /picocolors/1.0.0:
@@ -3070,7 +3070,7 @@ packages:
     dependencies:
       jsonc-parser: 3.2.0
       mlly: 0.5.16
-      pathe: 0.3.8
+      pathe: 0.3.9
     dev: true
 
   /postcss-selector-parser/6.0.10:
